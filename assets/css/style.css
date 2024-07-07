@@ -102,13 +102,13 @@ a {
   font-size: 20px;
   text-align: center;
   font-weight: 500;
-  color: #ff0000;
-  border: 2px solid #ff0000;
+  color: hsl(6.12deg 62.03% 15.49%);
+  border: 2px solid hsl(6.12deg 62.03% 15.49%);
   transition: all 360ms ease;
 }
 .btn1:hover {
 	color: #ffffff;
-	background: #40140F;
+	background: hsl(6.12deg 62.03% 15.49%);
 }
 .margin_top {
   margin-top: 130px;
@@ -121,7 +121,7 @@ a {
 ***************************************/
 .main-header-area {
 	padding: 45px 0;
-	background: #ff0000;
+	background: hsl(6.12deg 62.03% 15.49%) !important;
 	margin-bottom: 23px;
 }
 .header-area {
@@ -237,9 +237,9 @@ a {
 /*  start : footer area
 **********************************/
 .mainFooterArea {
-	padding: 50px 0 80px 0;
-	text-align: center;
-	background: #ff0000;
+  padding: 50px 0 80px 0;
+  text-align: center;
+  background: hsl(6.12deg 62.03% 15.49%) !important;
 }
 .footerArea {
   margin: auto;

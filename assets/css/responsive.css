@@ -6,7 +6,6 @@
   }
   .main-header-area {
     padding: 25px 0;
-    background: hsl(8.28deg 67.44% 91.57%);
     margin-bottom: 23px;
   }
   .featuredWork_B, .featuredWork {
@@ -65,7 +64,7 @@
     position: absolute;
     flex-direction: column;
     align-items: center;
-    background: hsl(8.28deg 67.44% 91.57%);
+    background: hsl(6.12deg 62.03% 15.49%) !important;
     width: 100%;
     height: 100vh;
     top: -25px;
@@ -103,7 +102,7 @@
     position: absolute;
     height: 1px;
     width: 100%;
-    background: hsla(0, 0%, 0%, 1);
+    background: #FFF;
     border-radius: 0px;
     opacity: 1;
     left: 0;
